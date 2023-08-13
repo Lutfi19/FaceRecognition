@@ -1,0 +1,95 @@
+Date: 6/8/2023
+Time: 14:31
+Phone Number: +688286017661
+Message: Test message from a Python script!
+--------------------
+Date: 6/8/2023
+Time: 16:6
+Phone Number: +6288286017661
+Message: Test message from a Python script!
+--------------------
+Date: 6/8/2023
+Time: 16:7
+Phone Number: +6288286017661
+Message: Test message from a Python script!
+--------------------
+Date: 6/8/2023
+Time: 16:11
+Phone Number: +6288286017661
+Message: Test message from a Python script!
+--------------------
+Date: 6/8/2023
+Time: 16:12
+Phone Number: +6288286017661,+62 89654262251
+Message: Peni
+--------------------
+Date: 6/8/2023
+Time: 16:13
+Phone Number: +6288286017661
+Message: Peni
+--------------------
+Date: 6/8/2023
+Time: 16:13
+Phone Number: +6288286017661
+Message: Peni
+--------------------
+Date: 6/8/2023
+Time: 16:14
+Phone Number: +6288286017661
+Message: Peni
+--------------------
+Date: 6/8/2023
+Time: 16:15
+Phone Number: +6288286017661
+Message: Peni
+--------------------
+Date: 6/8/2023
+Time: 16:25
+Phone Number: +6288286017661
+Message: Peni
+--------------------
+Date: 7/8/2023
+Time: 16:40
+Phone Number: +6288286017661
+Message: Peni
+--------------------
+Date: 7/8/2023
+Time: 16:41
+Phone Number: +6288286017661
+Message: Peni
+--------------------
+Date: 7/8/2023
+Time: 17:19
+Phone Number: +6288286017661
+Message: Peni
+--------------------
+Date: 7/8/2023
+Time: 22:55
+Phone Number: +6288286017661
+Message: 
+--------------------
+Date: 7/8/2023
+Time: 23:16
+Phone Number: +6288286017661
+Message: peni
+--------------------
+Date: 7/8/2023
+Time: 23:19
+Phone Number: +6288286017661
+Message: peni
+--------------------
+Date: 7/8/2023
+Time: 23:21
+Phone Number: +6288286017661
+Message: peni
+--------------------
+Date: 7/8/2023
+Time: 23:21
+Phone Number: +6288286017661
+Message: peni
+--------------------
+Date: 7/8/2023
+Time: 23:26
+Phone Number: +6288286017661
+Message: MLG
+--------------------
